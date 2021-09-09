@@ -1,4 +1,7 @@
 # diceGame
+
+This game I made while learning in JavaScript course in Udemy.
+
 In this game you can play with your friend, the first get 100, will win
 
 
